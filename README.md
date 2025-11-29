@@ -1,2 +1,2 @@
-# 2048game
-lynette christhalia yavril
+# 2048game Instructions :DD
+# use WASD to move.. hehehe
